@@ -18,6 +18,14 @@ This is my prototype: a clean, minimal game where you tap four countries that be
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](lib/screenshots/iphone/home_screen.png)
+
+### ✅ Successful Match
+![Match Success](lib/screenshots/iphone/match_success.png)
+
 ## 🛠️ How to Run It
 
 If you’ve got Flutter set up, you’re good to go.
