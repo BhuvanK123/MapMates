@@ -21,14 +21,14 @@ This is my prototype: a clean, minimal game where you tap four countries that be
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](lib/screenshots/iphone/home_screen.png)
-
 <p align="center">
   <img src="lib/screenshots/iphone/home_screen.png" width="300"/>
 </p>
 
 ### ✅ Successful Match
-![Match Success](lib/screenshots/iphone/match_success.png)
+<p align="center">
+  <img src="lib/screenshots/iphone/match_success.png" width="300"/>
+</p>
 
 ## 🛠️ How to Run It
 
