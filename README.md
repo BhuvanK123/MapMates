@@ -1,16 +1,32 @@
-# map_mates
+# 🗺️ MapMates
 
-A new Flutter project.
+**MapMates** is a lightweight geography puzzle game built with Flutter. It was inspired by the popular game **GeoConnections**, which challenges players to make clever links between countries, cities, and regions. I loved the concept—but wanted to create a simpler, beginner-friendly version focused just on matching countries by continent.
 
-## Getting Started
+This is my prototype: a clean, minimal game where you tap four countries that belong to the same continent. It’s a fun way to sharpen your geography skills and explore how puzzle logic works in Flutter.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎮 What It Does
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Tap countries to select them
+- Match 4 from the same continent to win
+- Get instant feedback—green for correct, red for wrong
+- Buttons lock once a correct group is found
+- “New Puzzle” button refreshes the challenge
+- Works best on medium to large screens (small screens might feel a bit cramped)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ How to Run It
+
+If you’ve got Flutter set up, you’re good to go.
+
+## 🛠️ How to Run It
+
+If you’ve got Flutter set up, you’re good to go.
+
+```bash
+git clone https://github.com/BhuvanK123/MapMates.git
+cd MapMates
+flutter pub get
+flutter run
